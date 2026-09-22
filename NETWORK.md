@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**accessibility-checker** — AI Accessibility Checker (WCAG 2.2 issue finder). Part of the Zion Tech Group app network (630+ apps).
+**accessibility-checker** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
 
 ## Related apps
-- [ai-accessibility-auditor](https://github.com/Zion-support/ai-accessibility-auditor) — WCAG scanning & auto-fix
-- [zion-ai-accessibility-fixer](https://github.com/Zion-support/zion-ai-accessibility-fixer) — auto-remediation PRs
-- [zion-ai-accessibility-auditor](https://github.com/Zion-support/zion-ai-accessibility-auditor) — accessibility auditor
+- [ai-ai-safety](https://github.com/Zion-support/ai-ai-safety) — Comprehensive AI safety testing and red-teaming
+- [ai-architecture-design](https://github.com/Zion-support/ai-architecture-design) — AI Architecture Design
+- [ai-assessment-engine](https://github.com/Zion-support/ai-assessment-engine) — AI Assessment Engine
+- [ai-automated-booking](https://github.com/Zion-support/ai-automated-booking) — AI Automated Booking
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
