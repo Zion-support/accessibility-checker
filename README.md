@@ -22,3 +22,14 @@ AI Accessibility Checker — WCAG 2.2 issue finder — Zion Tech Group. Part of 
 
 ---
 © 2026 Zion Tech Group · https://ziontechgroup.com/
+
+---
+🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/ · 🧰 All tools: https://ziontechgroup.com/tools/
+
+**Related apps:**
+- [ai-offboarding-checker](https://github.com/Zion-support/ai-offboarding-checker) — https://ziontechgroup.com/ai-offboarding-checker/
+- [dns-health-checker](https://github.com/Zion-support/dns-health-checker) — https://ziontechgroup.com/dns-health-checker/
+- [zion-ai-accessibility-auditor](https://github.com/Zion-support/zion-ai-accessibility-auditor) — https://ziontechgroup.com/zion-ai-accessibility-auditor/
+- [zion-ai-accessibility-fixer](https://github.com/Zion-support/zion-ai-accessibility-fixer) — https://ziontechgroup.com/zion-ai-accessibility-fixer/
+
+© 2026 Zion Tech Group · https://ziontechgroup.com/
